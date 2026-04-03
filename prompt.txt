@@ -1,0 +1,2 @@
+1. use this code and make a code that can show how many times the webpage has been viewed
+2. make /home page show view count
