@@ -37,8 +37,8 @@ Bash
 
 # 1. Repository Clone
 
-git clone [본인_레포지토리_URL]
-cd [폴더명]
+git clone [https://github.com/welsh-bit/web-service]
+cd [web-service]
 
 # 2. Install Dependencies
 
