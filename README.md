@@ -47,8 +47,7 @@ pip install -r requirements.txt
 # 3. Run Server
 
 python app.py
-Links
-API Documentation (Local): http://localhost:5000/apidocs/
+Link
 
 Official Tech Docs: (https://welsh-bit.github.io/web-service/)
 
